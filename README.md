@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Jae Kim
+
+I'm a Junior Software Developer specializing in creating user-friendly and visually appealing applications. My expertise revolves around front-end web development specializing in ReactJS. I enjoy problem-solving and learning new things, which is why I enjoy coding and coming up with creative project ideas and producing them into working applications. I am continuously learning new skills to further enhance my developing skills. My skills include HTML, JavaScript, React, Express, and Node. I am always open to collaborating, so feel free to connect and we can chat!
+
+
+
 
 <!--
 **Jaek23/Jaek23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
